@@ -4,15 +4,7 @@
 
 O enunciado do projecto está disponível em [enunciado.md](enunciado.md). 
 
-## Data de entrega: 27 de março 2023, às 19h59
-
-Informações detalhadas sobre o processo de submissão estão disponíveis em [informacoes.md](informacoes.md).
-
-
-
 # Evaluation
-
-2023-03-27T18:54:02
 
 ## Test 1: [+ Accepted+].
 ## Test 2: [+ Accepted+].
@@ -49,7 +41,3 @@ Informações detalhadas sobre o processo de submissão estão disponíveis em [
 
 
 ## Number of passed tests: 32/32
-
-
-Your code will not be reevaluated if you submit before 2023-03-27 19:04:02 @ Lisbon, Portugal. You need to wait 10 minute(s).
-
